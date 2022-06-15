@@ -1,0 +1,3 @@
+It's the basic architecture of the GANs
+And the complexity in the network of generator and discriminator
+may be NN or DNN or CNN or RNN or LSTM or GRU or whatever you want
