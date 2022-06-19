@@ -1,7 +1,10 @@
 {
     "cSpell.words": [
+        "Crossentropy",
         "matplotlib",
         "mnist",
-        "pyplot"
-    ]
+        "pyplot",
+        "tqdm"
+    ],
+    "git.ignoreLimitWarning": true
 }
